@@ -7,6 +7,8 @@ A pure sandbox engineering modpack focused on Create (and it's add-ons), mechani
 ### Welcome to Create: Sable!
 A modpack that focuses on your creativity, that is build around Create. This pack is designed for casual **thinkers**, **builders**, and **inventors** who want to push the boundaries of mechanical automation, electrical automation, ~~flight~~, and survival without being tied down by quest (WIP)
 
+<hr>
+
 ### **Vision:**
 We made this with a purpose, To enchance creative mode,and Survival. Default Settings is such a headache with cluttered Creative Menu, Most mods are Hard to understand to beginners. But here we are to fix it.
 
