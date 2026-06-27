@@ -25,8 +25,11 @@ There are no quests. No forced progression, no gated content, and no hand-holdin
 ### **Optimized for Performance:** 
 Built on Modrinth to ensure smooth frame rates and stable physics simulation, even when your massive airships are in mid-flight.
 
+## Building
+Simply run the ```build.sh``` using bash.
+
 ## Credits:
-**Team:** OffbrandCortz · Atlas_
+**Team:** OffbrandCortz, Atlas_, JestMeow
 
 <hr>
 
