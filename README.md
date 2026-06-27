@@ -37,6 +37,7 @@ Built on Modrinth to ensure smooth frame rates and stable physics simulation, ev
 
 
 <hr>
+
 ## Credits:
 **Team:** OffbrandCortz · Atlas_ · JestMeow
 
