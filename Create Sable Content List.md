@@ -1,7 +1,16 @@
-Server & Client:
+### Server & Client:
+
+<hr>
 - Architectury API
 - Burnt Basic
+- Cloth Config API
+- Creative Tabs Sections (Deprecated)
 - Drive-By-Wire with Sable
+- Exposure
+- Farmer's Delight
+- Geckolib
+- Kotlin for Forge
+- KubeJS
 - Platform
 - ProbeJS
 - Rhino
@@ -9,63 +18,58 @@ Server & Client:
 - Sable
 - Ship Trails for Sable
 - Vanilla Backport
-- Kotlin for Forge
-- KubeJS
-- Geckolib
-- Farmer's Delight
-- Exposure
-- Creative Tabs Sections (Deprecated)
-- Cloth Config API
-
+<hr>
 - Create
-- Create: Deco
+- CBC: Compact Mount
 - Create: Big Canons
-- Create: Railways Navigator
-- Create: Ender Transmission
-- Create: Tweaked Controllers
 - Create: Blocks & Bogies
 - Create: Copycats+
-- Create: Power Grid
-- Create: Slice & Dice
+- Create: Deco
 - Create: Design n' Decor
+- Create: Ender Transmission
 - Create: Pantographs & Wires
+- Create: Power Grid
+- Create: Railways Navigator
+- Create: Slice & Dice
 - Create: Steel armor blocks
 - Create: The Factory Must Grow
-- CBC: Compact Mount
-
+- Create: Tweaked Controllers
+<hr>
 - Create: Aeronautics
-- Create: Tracks+
+- Create Aeronautics: Gyro Stabilizers
 - Create Aeronautics: Toolgun
 - Create Propulsion: Simulated
-- Create Aeronautics: Gyro Stabilizers
+- Create: Tracks+
 
 
-Server:
+### Server:
 - Lithium
 
-
-Client:
-- Sodium
-- Mem Leak Fix GPU
+### Client:
+<hr>
+Performance Mods:
 - Entity Culling
-- DragonLib
 - Faster Iris Shadow Mapper
+- FerriteCore
+- GPUBooster
+- ImmediatelyFast
 - Iris & Oculus Flywheel Compat
 - Iris Shaders
 - Iris Veil Compat
 - Iris/Oculus Shader Folder
-- FerriteCore
-- GPUBooster
-- ImmediatelyFast
-- Smooth Boot
-
-- MemorySweep
+- Mem Leak Fix GPU
 - More Culling
+- Smooth Boot
+- Sodium
+<hr>
+- Cool Rain Reforged
+- Creative Tabs Organizer
+- DragonLib
+- Essential Mod
+- MemorySweep
 - Mod Menu (NeoForge Edition)
 - Particle Rain
 - Wakes Reforged
-- Essential Mod
-- Cool Rain Reforged
 - Xaero's Minimap
 - Xaero's World Map
 
@@ -78,12 +82,11 @@ Resource Pack:
 - Fresh Flower Pots: Rotated
 
 
-Upcoming:
+Upcoming: 1.x.x
 - Create Loconautics (In-Dev)
-- Creative Tabs Layout (InDev)
-- Create: Bionics
-- Create: Connected
 - Create: Bells and Whistles
+- Create: Bionics
 - Create: Interiors
 - Create: Radars
 - Create: Storage
+- Creative Tabs Layout (InDev)
