@@ -1,6 +1,7 @@
 ### Server & Client:
 
 <hr>
+
 - Architectury API
 - Burnt Basic
 - Cloth Config API
@@ -18,7 +19,9 @@
 - Sable
 - Ship Trails for Sable
 - Vanilla Backport
+
 <hr>
+
 - Create
 - CBC: Compact Mount
 - Create: Big Canons
@@ -34,7 +37,9 @@
 - Create: Steel armor blocks
 - Create: The Factory Must Grow
 - Create: Tweaked Controllers
+
 <hr>
+
 - Create: Aeronautics
 - Create Aeronautics: Gyro Stabilizers
 - Create Aeronautics: Toolgun
@@ -46,7 +51,9 @@
 - Lithium
 
 ### Client:
+
 <hr>
+
 Performance Mods:
 - Entity Culling
 - Faster Iris Shadow Mapper
@@ -61,7 +68,9 @@ Performance Mods:
 - More Culling
 - Smooth Boot
 - Sodium
+
 <hr>
+
 - Cool Rain Reforged
 - Creative Tabs Organizer
 - DragonLib
